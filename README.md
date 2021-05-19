@@ -6,4 +6,4 @@
       2. Mediapipe
       
       
- Using mediapipe ML library detect 468 landmarks of face
+ Using mediapipe ML library detect 468 landmarks of human face
